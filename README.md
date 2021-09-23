@@ -4,8 +4,8 @@
 A Management system for the ellaboration for working structure in IT company
 
 
-## 🛠 Skills
-Javascript, HTML, CSS...
+<!-- ## 🛠 Skills
+Javascript, HTML, CSS... -->
 
   
 ## Features
