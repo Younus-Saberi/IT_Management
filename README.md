@@ -20,7 +20,7 @@ Javascript, HTML, CSS... -->
 ## Screenshots
 
 <img src="image/appli.png">
-<img src="image/Login.png">
+<img src="image/login.png">
 <img src="image/dash.png">
 <img src="image/copyofappli.png">
 <img src="image/logo.png">
